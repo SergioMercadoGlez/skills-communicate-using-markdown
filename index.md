@@ -9,3 +9,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+# Things to do:
+
+- [x] Go to work
+- [x] Study
+- [ ] Leave work 
